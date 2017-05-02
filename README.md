@@ -20,6 +20,7 @@ friends or colleagues.
 
 ## Part 1: Import Script and Database
 
+![Part 1](screenshot.png)
 Create a new file for this part.
 
 You will be importing a large JSON file containing `People` into a new
